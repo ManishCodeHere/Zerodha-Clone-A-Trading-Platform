@@ -18,8 +18,6 @@ Stock Data Fetching:
 
 Backend fetches or simulates live stock data using APIs.
 
-WebSockets continuously send updated data to all clients.
-
 Real-Time Dashboard:
 
 Users see live stock charts built with Chart.js.
