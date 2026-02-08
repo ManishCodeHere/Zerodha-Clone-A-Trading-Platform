@@ -1,12 +1,12 @@
-📈 Zerodha Clone – Real-Time Stock Trading Platform
+Zerodha Clone – Real-Time Stock Trading Platform
 
-Zerodha Clone is a full-stack real-time stock trading simulation platform. It allows users to view live stock data, analyze trends with interactive charts, and perform virtual buy/sell trades — all with real-time updates. 🚀 Features
+Zerodha Clone is a full-stack real-time stock trading simulation platform. It allows users to view live stock data, analyze trends with interactive charts, and perform virtual buy/sell trades — all with real-time updates. Features
 
-✅ Real-time stock price updates using WebSockets (Socket.io) ✅ Interactive stock charts powered by Chart.js ✅ Secure JWT-based authentication (Login & Signup) ✅ Manage user portfolios and trade history ✅ RESTful APIs for seamless frontend–backend communication ✅ Responsive and modern UI with React.js 
+Real-time stock price updates using WebSockets (Socket.io). Interactive stock charts powered by Chart.js. Secure JWT-based authentication (Login & Signup). Manage user portfolios and trade history. RESTful APIs for seamless frontend–backend communication. Responsive and modern UI with React.js 
 
-🧠 Tech Stack
+Tech Stack
 
-Frontend: React.js, Chart.js, CSS Backend: Node.js, Express.js Database: MongoDB (Mongoose ORM) Authentication: JWT (JSON Web Token) Real-Time ⚙️ Project Workflow
+Frontend: React.js, Chart.js, CSS Backend: Node.js, Express.js Database: MongoDB (Mongoose ORM) Authentication: JWT (JSON Web Token) Real-Time. Project Workflow
 
 User Authentication:
 
@@ -28,9 +28,9 @@ Trading Simulation:
 
 Users can perform virtual buy/sell operations.
 
-Portfolio and transaction history are updated instantly in MongoDB. 🧩 Folder Structure Trado/ │ ├── backend/ │ ├── server.js │ ├── config/ │ ├── controllers/ │ ├── models/ │ └── routes/ │ ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── services/ │ │ └── App.js │ └── package.json │ └── README.md
+Portfolio and transaction history are updated instantly in MongoDB. Folder Structure Trado/ │ ├── backend/ │ ├── server.js │ ├── config/ │ ├── controllers/ │ ├── models/ │ └── routes/ │ ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── services/ │ │ └── App.js │ └── package.json │ └── README.md
 
-🛡️ Security
+Security
 
 Implemented JWT authentication to protect API routes.
 
@@ -38,13 +38,13 @@ Encrypted user passwords using bcrypt.js.
 
 Ensured secure and consistent data updates using MongoDB transactions.
 
-🧠 Challenges Faced
+Challenges Faced
 
 Handling real-time updates efficiently
 
 Maintaining data consistency during trades
 
-Implementing secure login and authentication flow 🎯 What I Learned
+Implementing secure login and authentication flow What I Learned
 
 Real-time data handling using WebSockets
 
