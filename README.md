@@ -28,7 +28,7 @@ Trading Simulation:
 
 Users can perform virtual buy/sell operations.
 
-Portfolio and transaction history are updated instantly in MongoDB. Folder Structure Trado/ │ ├── backend/ │ ├── server.js │ ├── config/ │ ├── controllers/ │ ├── models/ │ └── routes/ │ ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── services/ │ │ └── App.js │ └── package.json │ └── README.md
+Portfolio and transaction history are updated instantly in MongoDB. Folder Structure Zerodha Clone/ backend/ server.js | config/ controllers/ models/ routes/ frontend/ src/ components/ pages/ services/ App.js │  package.json │ README.md
 
 Security
 
